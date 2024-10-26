@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+.alert,
+.success
+{
+    width: 400px; 
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white; 
+    padding: 8px 0;
+    text-align: center;
+
+}
+.alert 
+{
+    background-color: red;
+    
+}
+.success
+{
+    background-color: green;
+}
+
+#contact form
+{
+    background-color: #040b14;
+    box-shadow: none;
+}
+#contact .info-wrap
+{
+    background-color: #040b14;
+    box-shadow: none;
+}
